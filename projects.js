@@ -20,8 +20,7 @@ const projects = [
   description:
     "An AI-powered resume evaluation system built with React.js and MUI. It extracts key details from resumes, generates embeddings, and scores candidates based on job descriptions using in-memory vector search. Supports document upload, contextual chat, and instant skill gap analysis without needing a database.",
   imgSrc: "assets/greeting.png",
-}
-
+},
   {
     title: "Mood Tracker App",
     url: "https://github.com/ianshulx/React-projects-for-beginners/tree/main/mood-tracker",
