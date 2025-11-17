@@ -14,6 +14,14 @@ const projects = [
       "A fully functional Google NotebookLM-inspired web application built using Next.js, TypeScript, and Google Gemini API. This project allows you to upload documents, generate embeddings, and interact with your data through AI-powered chat, all with in-memory search (no database required).",
     imgSrc: "assets/NotebookLM.ico",
   },
+{
+  title: "AI Resume Scorer",
+  url: "https://github.com/Harika-para2004/ai-resume-screener",
+  description:
+    "An AI-powered resume evaluation system built with React.js and MUI. It extracts key details from resumes, generates embeddings, and scores candidates based on job descriptions using in-memory vector search. Supports document upload, contextual chat, and instant skill gap analysis without needing a database.",
+  imgSrc: "assets/greeting.png",
+}
+
   {
     title: "Mood Tracker App",
     url: "https://github.com/ianshulx/React-projects-for-beginners/tree/main/mood-tracker",
